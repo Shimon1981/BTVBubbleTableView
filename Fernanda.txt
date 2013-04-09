@@ -1,0 +1,7 @@
+Fernanda
+--------
+* convert retain to strong?
+* add color to message bubble
+* add name label
+* show time next to message bubble's side
+* set background color (page 15 - when clicked the event is colored in blue)
